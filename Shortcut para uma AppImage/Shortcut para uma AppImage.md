@@ -1,0 +1,60 @@
+# Shortcut para uma AppImage
+
+### Como configurar
+ 
+1. Faça do download da sua AppImage.
+2. Abra o terminal na pasta onde está a AppImage e rode o comando:
+```
+chmod u+x nome_app.AppImage
+```
+3. O AppImage deve ter a permição de executar como um programa.
+4. Criar shortcut no menu do Ubuntu copie o arquivo abaixo e salve como nome_app.desktop e coloque na pasta **~/.local/share/applications** siga o modelo abaixo:
+ 
+```
+[Desktop Entry]
+Name=nome_app
+Comment=Comentário sobre a aplicação do shortcut
+Exec=/home/pasta_usuario/apps/nome_app/nome_app.AppImage
+Icon=/home/pasta_usuario/apps/app-icones/nome_icone.png
+Terminal=false
+Type=Application
+Categories=Development
+```
+ 
+### Observações:
+- Name: nome do programa.
+- Comment: comentário curto sobre o programa.
+- Exec: Caminho da AppImage.
+- Icon: Caminho do ícone para o shortcut.
+- Terminal: Rodar terminal sim/não.
+- Type: Eu deixo sempre como Application.
+- Categories: Nome da categoria.
+ 
+### Modo mais fácil
+ 
+O caminho mais fácil seria instalar um editor de menu como o [AppEditor], [Menu Livre] entre outros e criar via interface gráfica o atalho para executar a AppImage.
+
+![Menu Livre](https://i.imgur.com/e9hEa1f.png)
+
+### Usando o Menu Livre
+
+1. Clique no botão de + para adicionar o shortcut dentro da categoria escolhida (no exemplo é Jogos).
+2. Clique em "Novo Lançador" para colocar o nome.
+3. Clique no ícone de engrenagem para colocar o ícone da aplicação.
+4. Defina o comando ou seja, o caminho onde está a AppImage.
+5. Defina um diretório de trabalho.
+6. Na área de opções ative ou não: Executar no terminal / Usar notificação de inicialização / Esconder dos menus.
+7. Em categorias clique no botão de + e defina a categoria onde será colocado o shortcut.
+
+![Menu Livre](https://i.imgur.com/Kb5yigV.png)
+
+[Menu Livre]: https://launchpad.net/menulibre
+[AppEditor]: https://github.com/donadigo/appeditor
+
+**Siga-me nas redes sociais, eu estarei sempre a disposíção para trocar novas idéias. Sempre que eu puder estarei postando novidades!**
+
+##### Postagem disponível
+[![Hashnode](https://img.shields.io/badge/Publicado_no-Hashnode-blue?style=for-the-badge&logoColor=00C11C&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAqIAAAKiCAMAAAA6307BAAAAAXNSR0IArs4c6QAAAOpQTFRFR3BMIGD/KWL/KWH/KWL/KWD/KGD/KGD/KWH/KWL/KmL/KGL/KWH/AAD/KGD/KWL/KWH/J13/KGL/KmL/KWP/KmH/KGL/KmH/MGD/KWL/KmL/KmL/KWH/KGP/J17/JWD/J2H/KWD/KGH/K2D/LVr/KmH/JmD/KWD/KWL/KWL/KWL/KWL/KGL/KGH/KmP/KWH/KGH/K2P/KWD/J2D/KWP/KmL/KWH/JF7/KGL/KmH/Hlr/KmH/KWP/KmL/K2L/JmP/KmD/JmH/K2L/KWL/JmL/KWL/KGH/Kl7/KmL/KmL/KWH/KV7/KmH/KWL/dK8W/wAAAE50Uk5TABD+v97eQCDf3++AkAFgcKAhYJ9v75++EO6Af89fQTBhb78wEc9Qj17vr4+eoM/OX45QcM/ucTF/zhFPUJ5OUJ9xj1FRrr4xr86wUd3/x8skzQAAEiFJREFUeNrt3YtCE0m+wOFOWpKQtNwSggijg6y4orO6OrM7s7P3+zm7/f6vc5SDDKAwkHSS6vp/vzdI9UdVV3WHFIXmqdPvbUxG43FZDgaDYX3ecDA4LMtxNZqc9PoGSSupf7JRjQ8vUN7WsDytJr2OMdOyJs7e5I42r0sFVQvv6WQ8qOfq8HTSM45azOR5UA7rZipHmKrZGuR5wdRsqqamz41x0zzPWx+fuDfVvD4nZb3Qyq+cSildn5RqrvV9KT4/KTXguuf+qBrWS204tntSagv89R5Y8JXmBHp5KoVUPwu0rFdaeeIa6JYVfud5vfIe2DrpJqAHwzqJIFXSQCFV8kAh1WdNEgMKqa7u4tfrJINUSRwz3daec1J1XtVJ5zDfTWideFZ7a3zyPTCRWuNT79dezrePt9rLFGrbpFyn0POJ1CvPptDk70hduDAdr9etzNbeWWjqdTddvQiL/L/rFmfXZJG32Msib7HXzb2qM8jOPt/639ZZ9MZi7zbUDalW0J+GdTbt+7Z9jhulOqe6B65obn1f14wq4cZ1dv3BVc2oTlln2BsvOjtscvik5QhdrzPN4ROhjIpQRgmta0ZFKKMilFFCGRWhjCqiUEYJZVSEMkoooyKUURHKKKGMilBGFVUoo4QyKkIZJZRREcqoCGWUUEZFKKOEMipCGRWhjBLKqAhlVIQySiijIpRRQhkVoYyKUEYJZVSEMkqoGCWUURHKKKGMilBGCRWjhDIqQhkllFFuCGVUhDJKKKMilFFCxSihjIpQRgllVIQySqgYJZRREcoooWKUUEYJFaOEMipCGSVUjBLKqAhllFB9bJ1RQs2jhIpRQhkVoYwSKkYJZZRQMUoooyKUUULFKKGMEipGCRWjhDJKqBgllFERyiihYpRQRgkVo4SKUUIZJVSMEsoooWKUUDFKKKOEilFCGRWhjBIqRglllFAxSqgYJZRRQsUooYwSKkYJFaOEMkqoGCVUgY0SyiihYpRQRgkVo4SKUUIZJVSMEqooRglllFAxSiijhIpRQsUooYwSKkYJVRSjhDJKqBglVLkaJZRRQsUoocrVKKGMEipGCVWuRglllFAxSqhyNUooo4SKUUKVq1FCGSVUjBKqXI0SyiihYpRQ5WqUUEYJFaOEKlejhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4QqbaOEKm2jhCpto4Te0OCwnFaj0cZFo1E1LQ93jcySjRL6uc3TauPdLQN+3DuqykPjtCSjhF7VOT067txt5Dq9oy1OF2+0862R/dSzqte59/j1qtLIfepNZwFECT2fPWfgecH03dbACJ6117zQsVH9OH2OjucdyOMja/7H/tC00O+NaX04augOqn9kLq27B4Q2227Va3JAj6343c0mB/RP4Rf4t83f3m9E3z11Txo8bhrGnkCnvWIh9bdiG91v7Ogp9oHo7qhTLKx+7PW+sePRbwFdINJRZKQNHT29AhTSRfXrJkZwAujikdrWzzN8YUdvuszv1IbdOO0/tVWa9ZipVyy17air/YN5l6qgf927m8XS2wiK9B9uRGdZ4zvFCgq62s93OxrzRnTQK1ZUzIl0rtvRkDeiVadYWTEn0jluRyOeiO6eFCst5EQ68+loL+JGfuW/ZLUd8O2S7oy3VhHPmx4XCRTwIH/GpT7ebdFur0iid/EW+5mW+p1ww3SYzM+nxzvHn2Wp74Rb5rc6RTI9qiz1dvNJ3oYGviG991If7tB+p0isv1jqHdonuFG63JNgX8fZs1e6pcFxkWDBNk33e1Yf7Eh00C8KRlfe/n12TFuEMpr0jqlPKKNp75hKQhlNese0QyijaU+j64QyupoemEQ/Ow9NXmhR/CvQ+Wj3K5PotY6LFvTEwVPcSXSzaEVfB7okj02i9x0O75QkN40GmkSrtggtHm6ZNyJOooNOa4gWv3huGo03iQ76RYvaHppGw02iJ0WrirOt3zeJtmyrFG7L9DNno2Em0WdtE1o8DPPmxP/cNgy/dyPqdnT102jPK051/bZoYf+JcnX2vCdaT9sotHhYmUajHBC3cZk/Ox2N8tLTixsn0Sg3O2+Llhbl5OnG4/soJ07TtgoN8yD0xi+DBjlxausyf7bUB1nobtgwRfl3om+LFhfkf5TcsGEKsogM2iw0zAH+lzdMQdaQfquJRtkxfXHDFGSzNG230Cg7pu5O3CdLLZ9EwzwH3Qv7ZOlx0fpivPLU7QRd5wf99hONcfD0haPR0iRqGk16pe+bRE2jaa/0OyZR02jaK31pEjWNJr3SP3ImahpNe6WPsc73cyEaYhq9dnq/ZRL1iCm1Xsd7Dy+bSTTIk/r9cO/hlfkIjfHC05U38jYjEH2bEdHiN9HOCCP8TQ5yEhpjw3T52MlmqXUrfYQvLF96aTTErejTrIiG2DBduhmNcBKc1zr/YRqN8B9HH4e6Fd3MjGiIeWUv1K1oPzei25FORiPcij7PTWiIo9Hu00Cnotmt8yFW+osX8k7t59vYbwNctk+P6X9lP9/KlT7AixUP4rwrOs2RaIDT+/N3RiPsln7MkGiE0/vzw/sIu6VOjkR/EWa/FGC9KHMUGuLYaRrl2VKVJ9EAk8sPZ580wGtdvSyJRrgZ3Y+yoe/kSTTCzWg/xob+eZ5CI5yMnm3pA2zop7kS/SZ/ojsxNvSbmRKN8A2mFzGe0PdyJRrgMf00xplTJ1eiAfZLP4Q4c8p1txRiv7Qf4pX7Ml+i+d+ldTsR/vdtlS/R/Pe63X6EY9FsN/RF8XWEg9Hf29C3uL9FOBgNcHL/NF+i+X8NtLsZ4Uta+QotHuZ/9UYBHi69zJlo/qdOr4tvHIu2mWj+X42cBni4VOZMNP/LtxeA6DRnot8EIJr/SlHlTDT/rcSDAD/EMMqYaIADGUQRTZ5o/i867eRMNP8noPsBXnRCtNV1EUUUUUQRRRRRRBFFFFFEEUUUUUQRRbR5oo7uEU386N4DUA9Ak84zekQRXXlexmt1P3il2SvNabfniyHtJhrhiyH5/xn6el2ri/AN0PWcieZ/ZvjCv3poN9H8r973Ef5hTj9fovn/m+bupNjJn+iP+RLN/5eXuj9G+OeNGT8Bzf/3GLo9/wLXyX3aRPsRfrzufx2LtphoEeHnGPI9dQpwLPrx5xjy/5R+1KbF7X34mPmf3ef7b5oD/JTyaeEHFm3ok+7jDywGOBjN9mdqtyKc3BcRfjIk1/1SgN3S2Y99BzgYzXW/FGC31D27dPmfOuX6y0sBdkv7Zx80wKlTns+XAjxbOjtzCnHqlOeL9wGeLZ1t6IsIr+PleTMa4VZ0cvZJA7zrlOfN6N8CEP3/CxfgRZIsb0YDnIqeb+iLAF+lz/JkNMCPK9Y/nH/WAPulHB/T/zbAZTs9/6wR9kuPPaBv726pKJ4GIJrfsVOAp5+fdksxni/l9zXQ7QAXrXvxaQMcAee30gdY58+fLX0swL97qH9lP9++vr/4uBEO73M7vY+wn//pVrR4FOFmNK/T+wjn9pduRWPcjL7sWOdbeysa42Y0r28wfR1hEp1c+sAhbkZzOhqN8B7e5VvRICejOW2YImyW6rUrH/mbCB95bLPUql5f+cw7ET5yPhumCE+W6u4fr3zmCO+M5vOEKcYk2r02o5Sm0RZNohFOnK4cOUV5IS+baTTEGWH3l9c+dYyVPo9pNMYk2v3s3bTSNGoSTXmdj7LS5zCNBplEf/nZB4+x0ucwjcaYRLtfeAc9xkr/svVv32/HmEv2vvDRd2J89LY/YopxJvqldT7IS6N165/UB5lE97/44asYH77dLzyFeE+0vv58PtQbeXXL3xv9OsY16t6w1sXYMLX64Gk7yCS6dsPn3wwyjY7tldq4WYq0YWrvjinIMl/v33g0GGTDVK93LPMt3CxF2jDVf7XMJ73O3/J8pYxi9MQyn3B7twxCmGm0jc9Bwyzz174Rcq3nUYy27wD/YZglbu3WcdiIMgz1gRec2nbidN4wjNGWnTz9vTaJBvtbbdntaJgb0Z+dROMc39f1YYtOR3+3bhINOI226EHow1e1STTiNNqeLVOgeWPNcFzpbTuEbtYm0ajTaDu29U9qk+jV3gcakZct+FW77aFJ9HqDQEbXkz96inPcdOdJNNCT+jYYDSX0rpNooBee0jcaSuitrzgFnkaTNhpLaPceV6JilNDlC319j6EJdfCUrtFYQuu1e12G9zWjK+9fsYTefa8UcMdU1y8TPMN/Emspq/97z/GJtWOqE/wfJTvBLkD33itZFc1oYu+UjKIJfXHvIXo0iGb0rwm9P/q7cbTRX5th9MMt9Qltmra/jTb2990rBV3q6/UTG6UWHIlGXuoTuSEdxRv3tRkXsHhLfV2XK1/st8t4o96d+cyvCmh0/avVCv37MOCgv5h5uCIu9XU9XuFE2nkVccTX5hix44h/0iucSJ+sRxzv7lxzwvu6NpEu7TB0K+Rgd+d8sPfvmEZXMZFOhjHH+vWc4xbzdrRe/jl+rww60GtzD/Rx0L/t5a72/a2oo9xtYJTf12E7WBLSzkHYeaDbyBtmVVyj68tAGhjoPCeikV9vXi7S0EDrN03dKA3qyEgXeU8aG2gDW6ULo6HH8cPGaUH/Vqe3FXtgv2vwj/9dHbyy+XPSzqQMPqjdRt99fB/d6If1vtGptFcNww/pY+8wNq500tDC1D94bjSbFloUW8b0Q4eTuefS3kFpHD/05+bv7Q3spxX/ZObv4XV61cAINnrcdOVpvcXpp91T1evMwNNf+U9CF/J1274J4MqaP57c1Wnn6WRs8C63tqCzZkY/d1pWk94tt6f9k43q1LAtSyijNzY8LMfVaLRx0WhUjctDw7VsoYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjCp1oYwqdaGMKnWhjBJaFIyKUEaVs1BGCWVUhDKqvIUySiijIpRR5S2UUUIZFaGMKm+hjBLKqAhlVHkLZZRQRkUoo8pbKKOEMipCGVXeQhkllFERyqjyFsoooYyKUEaVt1BGCWVUhDKqvIUySiijIpRRQhkVoYyKUEYJZVSEMqqoQhkllFERyiihjIpQRkUoo4QyKkIZJZRREcqoCGWUUEZFKKMilFFCGRWhjBLKqAhlVIQySiijIpRRQsUooYyKUEYJZVSEMipCGSWUURHKKKGMskIooyKUUUIZFaGMEipGCWVUhDJKKKMilFFCxSihjIpQRgkVo4Qyqk8NCGXUHMqoCGWUUDFKKKMilFFCGRWhjBIqRgllVIQySqgYJZRRQsUooYyKUEYJFaOEMipCGSVUjBLKKKFilFBGRSijhIpRQhklVIwSKkYJZZRQMUooo4SKUULFKKGMEipGCWVUhDJKqBgllFFCxSihYpRQRgkVo4QySqgYJVSMEsoooWKUUDFKKKOEilFCGSVUjBIqRglllFAxSiijhIpRQsUooYwSKkYJVVijhDJKqBgllFFCxSihmsPo8zyFvum4trn0KEuj/yQ0p7byE/pnVzWvRrkJfeyaMppy3U1XNL/eDfMR+t2J6+nwyWGTHD7NvJUnNN+qHIS+cB1z7n37b0NtlNyQpn0beuwaZm+01af4//BEyWJvkZfF3iKvPHf2Lyzykeq1biJd67lqdk2mUCXVxsAUqrR7VJlCZWvfQM9MoVZ7Z6GybbLGa3akpTVeVnv7eOWH9Lu3rosSRro7chOqhJECqqSRAqqkkb5xD6rbelc6ZlLi9bd2V7bCV4DqTkhXs94/O3ILqjvXW/ZUagLV/bdOS7wrfbZhAtVMC35pgVd0pXxq7jrvtha0e9qdWt/V1O7pqOnJdPfZyP5IDTMdlQ3yNH1qQbPp6eF8PAfTI/9TRAu+N+0dVeUMp6a7h9Mjk6eWCvX0blI/2Kw2ev6zslZTv/fuaFRNy/JwMLgAuzsYDMpyOh0dfaBp4pyv/wPCS/w6ASMdFwAAAABJRU5ErkJggg==)](https://maosnocodigo.hashnode.dev/) [![evernote](https://img.shields.io/badge/Compartilhado%20no-Evernote-green?logo=evernote&style=for-the-badge)](https://www.evernote.com/shard/s580/sh/ce2c1b1f-79cb-9945-699e-5d93d60442b9/10d97b104a4fe3ab2cc6379290c007eb) [![github](https://img.shields.io/badge/Repositório%20no-github-black?logo=github&style=for-the-badge)](https://github.com/mayannaoliveira/artigos-postagens)
+
+##### Redes Sociais
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayannaoliveira) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/5XLG4UPSFCNWP1) [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mayannaoliveira) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveiramayanna/) [![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](ttps://twitter.com/oliveiramayanna/) [![codepen](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mayannaoliveira)
