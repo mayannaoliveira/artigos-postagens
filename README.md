@@ -29,12 +29,14 @@ I white these articles and posts to share about Information Technology and impro
 </div>
 
 
+
 *🇺🇸 Folks, sorry because I didn’t post any article in English yet. I will put on my effort to write it in English too. Please, let me know what you want to read in my blog [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayannait@gmail.com)](mailto:mayannait@gmail.com) I will reaply you soon as possible.* 
 
 Esse blog irá falar sobre TI no geral, veja alguns temas abaixo. / This blog will talk about IT in general, check some subjects bellow.
 
 
 <div align="center">
+
 
 **Habilidades Tecnológicas / Technology Skills**
 
