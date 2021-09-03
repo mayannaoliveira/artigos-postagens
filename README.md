@@ -9,7 +9,8 @@ I white these articles and posts to share about Information Technology and impro
 
 **Confira minhas postagens / Check my posts**
 
-<!-- Hashnote --> [![Hashnode](https://img.shields.io/badge/📃%20Publicado_no-Hashnode-blue?&style=for-the-badge&logoColor=00C11C)](https://maosnocodigo.hashnode.dev/) <!-- Github --> [![Github](https://img.shields.io/badge/Compartilhado%20no-Github-black?logo=Github&style=for-the-badge)](https://www.evernote.com) <!-- Dev.to --> [![dev.to](https://img.shields.io/badge/Disponível%20no-dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/mayannaoliveira)
+[![Hashnode](https://img.shields.io/badge/📃%20Publicado_no-Hashnode-blue?&style=for-the-badge&logoColor=00C11C)](https://maosnocodigo.hashnode.dev/)  [![Github](https://img.shields.io/badge/Compartilhado%20no-Github-black?logo=Github&style=for-the-badge)](https://www.evernote.com)  [![dev.to](https://img.shields.io/badge/Disponível%20no-dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/mayannaoliveira)
+
 
 
 **Redes sociais / Social medias**
