@@ -34,3 +34,4 @@ Website: [History Chess](http://history.chess.free.fr/)  acessado em 07/09/2020.
 Website: [Chaturanga Family]( https://chrisbogert.wixsite.com/chaturanga-family) acessado em 07/09/2020.
 
 Website: [Chess Museum](http://www.chess-museum.com) acessado em 07/09/2020.
+
