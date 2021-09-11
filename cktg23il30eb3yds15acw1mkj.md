@@ -2,7 +2,7 @@
 
 #### Follow the steps below to install [Android Studio]:
 
-1. Install Java SDK and update all.
+1. Install Java JDK and update all.
 2. Install Android libaries as: `libc6:i386`, `libncurses5:i386`, `libstdc++6:i386`, `lib32z1` and `libbz2-1.0:i386`.
 3. Download Android Studio tar.gz file and extract it.
 4. Make a shortcut to open it from menu.
