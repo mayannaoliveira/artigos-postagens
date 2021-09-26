@@ -46,18 +46,21 @@ O caminho mais fácil seria instalar um editor de menu como o [AppEditor], [Menu
 6. Na área de opções ative ou não: Executar no terminal / Usar notificação de inicialização / Esconder dos menus.
 7. Em categorias clique no botão de + e defina a categoria onde será colocado o shortcut.
 
-## Problemas com permissão
+![Menu Livre](https://i.imgur.com/Kb5yigV.png)
+
+## Problemas com permissões
 Caso a haja problemas para rodar o atalho criado da AppImage é recomendável que mude as permissões para 777, siga os passos:
 1. Coloque todas as AppImage em uma pasta.
 2. Abra o terminal e digite `stat -c  %a minha_pasta` para verificar a permissão.
 3 Para trocar a parmissão basta digitar `sudo chmod -R 777 minha_pasta` todas as AppImage dentro da pasta serão executadas sem problemas.
 
-![Menu Livre](https://i.imgur.com/Kb5yigV.png)
 
 [Menu Livre]: https://launchpad.net/menulibre
 [AppEditor]: https://github.com/donadigo/appeditor
 
-*Siga-me nas redes sociais, eu estarei sempre a disposíção para trocar novas idéias. Sempre que eu puder estarei postando novidades! *
+*Siga-me nas [redes sociais](https://beacons.ai/mayannaoliveira), eu estarei sempre a disposíção para trocar novas idéias. Sempre que eu puder estarei postando novidades! *
 
-%[https://linktr.ee/mayannaoliveira]
+[Mayanna Oliveira]
+
+[Mayanna Oliveira]: https://linktr.ee/mayannaoliveira
 
