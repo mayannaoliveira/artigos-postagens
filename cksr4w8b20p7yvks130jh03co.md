@@ -52,7 +52,7 @@ O caminho mais fácil seria instalar um editor de menu como o [AppEditor], [Menu
 Caso a haja problemas para rodar o atalho criado da AppImage é recomendável que mude as permissões para 777, siga os passos:
 1. Coloque todas as AppImage em uma pasta.
 2. Abra o terminal e digite `stat -c  %a minha_pasta` para verificar a permissão.
-3 Para trocar a parmissão basta digitar `sudo chmod -R 777 minha_pasta` todas as AppImage dentro da pasta serão executadas sem problemas.
+3. Para trocar a parmissão basta digitar `sudo chmod -R 777 minha_pasta` todas as AppImage dentro da pasta serão executadas sem problemas.
 
 
 [Menu Livre]: https://launchpad.net/menulibre
