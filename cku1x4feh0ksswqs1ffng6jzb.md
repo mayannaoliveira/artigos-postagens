@@ -40,6 +40,8 @@ Tutorial de como colocar um Gif animado na extensão Power Mode do Visual Studio
 - Exemplo de link da Giphy `https://media3.giphy.com/media/Lm5pI9pBuwGAEgZFVM/giphy.gif`.
 - Exemplo de link da Tenor `https://c.tenor.com/lzwxDTVrx0EAAAAj/clown-pennywise.gif`.
 
+[![Gif animado na extensão Power Mode do Visual Studio Code](https://res.cloudinary.com/marcomontalbano/image/upload/v1632753987/video_to_markdown/images/youtube--yRbngdPDSJU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=yRbngdPDSJU "Gif animado na extensão Power Mode do Visual Studio Code")
+
 #### Seleção de Gifs animados:
 
 - Pennywise IT:
