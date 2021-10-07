@@ -33,7 +33,7 @@ Lista de alternativas para o Visual Studio Code:
 
 - [GitHub Codespaces](https://github.com/features/codespaces)
 
-![10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633216594264/WEd4utQEx.png)
+![Instagram - Mãos no Código [Alternativas para o Visual Studio Code].png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633622181110/ZGUVToC8R.png)
 
 - [Eclipse Theia IDE](https://theia-ide.org/)
 
@@ -53,7 +53,7 @@ Lista de alternativas para o Visual Studio Code:
 
 - [Nova Code Editor](https://nova.app/)
 
-![14.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633216713113/5e4dyJ52r.png)
+![Instagram - Mãos no Código [Alternativas para o Visual Studio Code] (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633622220681/MQ58__wAw.png)
 
 - [Codeshare](https://codeshare.io/)
 
@@ -61,11 +61,11 @@ Lista de alternativas para o Visual Studio Code:
 
 - [CodePen](https://codepen.io/)
 
-![16.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633216814463/kbN8ahS6Y.png)
+![Instagram - Mãos no Código [Alternativas para o Visual Studio Code] (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633622263764/RhWE8yWr5.png)
 
 - [Codeanywhere](https://codeanywhere.com/)
 
-![17.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633216832161/bsFuf_PZz.png)
+![Instagram - Mãos no Código [Alternativas para o Visual Studio Code] (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633622379617/PAPlKyOHp.png)
 
 - [Jet Brains](https://www.jetbrains.com/pt-br/)
 
@@ -89,10 +89,9 @@ Lista de alternativas para o Visual Studio Code:
 
 - [Liveweave](https://liveweave.com/)
 
-![23.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633216986700/jMh89mgQp.png)
+![Instagram - Mãos no Código [Alternativas para o Visual Studio Code] (4).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633622406249/QjFA209nl.png)
 
 - [Komodo IDE](https://www.activestate.com/products/komodo-ide/)
-
 
 ![24.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633217039629/3unItrJqj.png)
 
