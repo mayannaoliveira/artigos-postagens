@@ -3,7 +3,7 @@
 
 ![Postagem do Instagram 1080x1080  px-.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1635104981166/0lNx0M7F6.png)
 
-## 17 dicas  para crescer no Instagram:
+## Mais de 17 dicas de como crescer no Instagram:
 
 **Dica #1** Gerenciador de links na biografia. Beacons / Linktree/ Boi Link/ Tap Link entre outras. Exemplo:
 	- [Beacons](https://beacons.ai/mayannaoliveira)
