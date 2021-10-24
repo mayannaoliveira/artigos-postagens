@@ -5,7 +5,7 @@
 
 ## 17 dicas  para crescer no Instagram:
 
-1. Gerenciador de links na biografia. Beacons / Linktree/ Boi Link/ Tap Link entre outras. Exemplo:
+**Dica #1** Gerenciador de links na biografia. Beacons / Linktree/ Boi Link/ Tap Link entre outras. Exemplo:
 	- [Beacons](https://beacons.ai/mayannaoliveira)
 	- [Linktree](https://linktr.ee/mayannaoliveira)
 	- [Bio Link](https://mayanna.bio.link/)
@@ -17,58 +17,57 @@
 	- [Campsite](https://campsite.bio/)
 	- [Hey Link](https://heylink.me/)
 	
-2. Acompanhar semanalmente os [Insigths do Instagram](https://help.instagram.com/1533933820244654) e os gráficos de engajamento.
+**Dica #2** Acompanhar semanalmente os [Insigths do Instagram](https://help.instagram.com/1533933820244654) e os gráficos de engajamento.
 
-3. Usar o máximo de recursos do Instagram para postagens, como divulgação com posts, IGTV, Reels, Stories, Filtros personalizados entre outros.
+**Dica #3** Usar o máximo de recursos do Instagram para postagens, como divulgação com posts, IGTV, Reels, Stories, Filtros personalizados entre outros.
 
-4. Usar ferramentas para programar postagens (instagram free post scheduler) como os aplicativos:
+**Dica #4** Usar ferramentas para programar postagens (instagram free post scheduler) como os aplicativos:
 	- [Later](https://later.com/) 
 	- [Mlabs](https://www.mlabs.com.br/) 
 	- [Hootsuite](https://www.hootsuite.com/pt/)
 
-5. Ferramentas para arte gráfica e edição de vídeos:
+**Dica #5** Ferramentas para arte gráfica e edição de vídeos:
 
-5.1 Edição de imagens e criação de cards têm algumas ferramentas com templates e de fácil uso como:
-	- [Canvas](https://www.canva.com/) 
-	- [Pablo](https://pablo.buffer.com/) 
-	- [Crello](https://crello.com/pt/)
-	- [Stencil](https://getstencil.com/)
-	- [Simplified](https://simplified.app/)
+**Dica #5.1** Edição de imagens e criação de cards têm algumas ferramentas com templates e de fácil uso como:
+- [Canvas](https://www.canva.com/) 
+- [Pablo](https://pablo.buffer.com/) 
+- [Crello](https://crello.com/pt/)
+- [Stencil](https://getstencil.com/)
+- [Simplified](https://simplified.app/)
 	
-5.2 Ferramentas para edição de vídeo no Android as mais populares são:
-	- [Filmr](https://play.google.com/store/apps/details?id=com.filmrapp.videoeditor)
-	- [InShot](https://play.google.com/store/apps/details?id=com.camerasideas.instashot)
-	- [CapCut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas)
-	- [Veffecto](https://play.google.com/store/apps/details?id=com.enjoyvdedit.veffecto)
-	- [VivaCut](https://play.google.com/store/apps/details?id=com.videoeditorpro.android)
-	- [FilmoraGo](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
-	- [Splice](https://play.google.com/store/apps/details?id=com.splice.video.editor)
+**Dica #5.2** Ferramentas para edição de vídeo no Android as mais populares são:
+- [Filmr](https://play.google.com/store/apps/details?id=com.filmrapp.videoeditor)
+- [InShot](https://play.google.com/store/apps/details?id=com.camerasideas.instashot)
+- [CapCut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas)
+- [Veffecto](https://play.google.com/store/apps/details?id=com.enjoyvdedit.veffecto)
+- [VivaCut](https://play.google.com/store/apps/details?id=com.videoeditorpro.android)
+- [FilmoraGo](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
+- [Splice](https://play.google.com/store/apps/details?id=com.splice.video.editor)
 
-6. Humanizar a rede social evitando o uso de banco de imagens ou recursos clichês e buscar postar vídeos, fotos e conteúdo do dia-a-dia da empresa como trecho de uma live, video ou foto de funcionários ou clientes interragindo um com os outros.
+**Dica #6** Humanizar a rede social evitando o uso de banco de imagens ou recursos clichês e buscar postar vídeos, fotos e conteúdo do dia-a-dia da empresa como trecho de uma live, video ou foto de funcionários ou clientes interragindo um com os outros.
 
-7. Colocar o texto alternativo nas postagens, passo a passo:
-	a. Carregue uma foto no feed do Instagram.
-	b. Clique nas Configurações avançadas.
-	c. Clique em Escrever texto alternativo.
-	d. Descreva a foto com detalhes. 
-	e. clique em Salvar.
+**Dica #7** Colocar o texto alternativo nas postagens, passo a passo:
+a. Carregue uma foto no feed do Instagram.
+b. Clique nas Configurações avançadas.
+c. Clique em Escrever texto alternativo.
+d. Descreva a foto com detalhes. 
+e. clique em Salvar.
 
-8. Entender como funciona o Algoritmo do Instagram. Dicas:
-	-  O feed é baseado por engajamento.
+**Dica #8** Entender como funciona o Algoritmo do Instagram e evitar shadowban. Mantenha-se informado através da [Central de Ajuda do Instagram](https://help.instagram.com) 
 
-9. As postagens de imagens tipo cards ou fotos devem ser de ótima qualidade então evite filtros exagerados ou cards com erros ortográficos.
+**Dica #9** As postagens de imagens tipo cards ou fotos devem ser de ótima qualidade então evite filtros exagerados ou cards com erros ortográficos.
 
-10. Sempre que for postar vídeo busque a qualidade da imagem e do aúdio, evite gravar vídeo disfocados, com ruídos ou baixa qualidade.
+**Dica #10** Sempre que for postar vídeo busque a qualidade da imagem e do aúdio, evite gravar vídeo disfocados, com ruídos ou baixa qualidade.
 
-11. Use hashtags que sejam compatíveis com sua postagem, evite usar mais de 7 hashtags ou hashtags que tenha baixa pontuação. É interessante criar uma hashtag para sua empresa ou projeto.
+**Dica #11** Use hashtags que sejam compatíveis com sua postagem, evite usar mais de 7 hashtags ou hashtags que tenha baixa pontuação. É interessante criar uma hashtag para sua empresa ou projeto.
 
-	- [Tags Finder](https://www.tagsfinder.com/pt-br/)
-	- [Inflact](https://inflact.com/tools/instagram-hashtag-generator/)
-	- [Sistrix](https://app.sistrix.com/en/instagram-hashtags)
-	- [All Hashtag](https://www.all-hashtag.com/hashtag-generator.php)
-	- [Instavast](https://instavast.com/instagram-hashtag-generator/)
+- [Tags Finder](https://www.tagsfinder.com/pt-br/)
+- [Inflact](https://inflact.com/tools/instagram-hashtag-generator/)
+- [Sistrix](https://app.sistrix.com/en/instagram-hashtags)
+- [All Hashtag](https://www.all-hashtag.com/hashtag-generator.php)
+- [Instavast](https://instavast.com/instagram-hashtag-generator/)	
 
-11.1 Aplicativos para Android que são geradores de hashtags:
+**Dica #11.1** Aplicativos para Android que são geradores de hashtags:
 
 - [Leetags](https://play.google.com/store/apps/details?id=com.leetags)
 - [Tagify](https://play.google.com/store/apps/details?id=com.gongadev.hashtagram)
@@ -78,9 +77,9 @@
 - [Captions](https://play.google.com/store/apps/details?id=com.caption.for.instagram.photos)
 - [Caption Plus](https://play.google.com/store/apps/details?id=nbots.com.captionplus)
 
-12. Faça a integração das postagens do Instagram com o Twitter, Facebook e Tumblr.
+**Dica #12** Faça a integração das postagens do Instagram com o Twitter, Facebook e Tumblr.
 
-13. Calcule seu engajamento semanalmente ou quizenalmente use ferramentas como:
+**Dica #13** Calcule seu engajamento semanalmente ou quizenalmente use ferramentas como:
 
 - [Phlanx](https://phlanx.com/engagement-calculator)
 - [MightyScout](https://mightyscout.com/engagement-calculator)
@@ -89,7 +88,7 @@
 - [Tanke](https://www.tanke.fr/en/instagram-engagement-rate-calculator-2)
 	
 	
-13. 1  Aplicativos para Android que ajudam a verificar número de seguidores, visualizações, curtidas, agendamento de postagens entre outros:
+**Dica #13.1**  Aplicativos para Android que ajudam a verificar número de seguidores, visualizações, curtidas, agendamento de postagens entre outros:
 
 - [Analy+ Followers Analytics](https://play.google.com/store/apps/details?id=com.analyplus.app)
 - [Later](https://play.google.com/store/apps/details?id=me.latergram.latergramme)
@@ -101,7 +100,7 @@
 - [Follower Analyzer](https://play.google.com/store/apps/details?id=com.maximolab.followeranalyzer)
 -  [Insights](https://play.google.com/store/apps/details?id=followers.tracker.instagram.analyzer)
 	
-13. 2  Aplicativos para Android para edição de Stories:
+**Dica #13.2**  Aplicativos para Android para edição de Stories:
 
 - [StoryArt](https://play.google.com/store/apps/details?id=com.ryzenrise.storyart)
 -  [Unfold](https://play.google.com/store/apps/details?id=com.moonlab.unfold)
@@ -112,7 +111,7 @@
 - [Instories](https://play.google.com/store/apps/details?id=io.instories)
 -  [Mostory](https://play.google.com/store/apps/details?id=com.cerdillac.animatedstorymaker)
 
-13. 3 Aplicativos para Android para criar capas para os detaques:
+**Dica #13.3** Aplicativos para Android para criar capas para os detaques:
 
 - [Highlight Cover](https://play.google.com/store/apps/details?id=com.ryzenrise.storyhighlightmaker)
 - [Highlight](https://play.google.com/store/apps/details?id=mobi.highlight.app)
@@ -122,7 +121,7 @@
 - [Capa para Destaques](https://play.google.com/store/apps/details?id=com.Creative.Story.Highlight.Icons.Cover.Maker.App)
 - [Highlight Story Cover](https://play.google.com/store/apps/details?id=highlight.covermaker.instagram.storyicons.logo.highlightapp)
 
-13. 4 Aplicativos para Android para edição de postagens:
+**Dica #13.4** Aplicativos para Android para edição de postagens:
 
 - [Layout para Instagram](https://play.google.com/store/apps/details?id=com.instagram.layout)
 - [PhotoSplit](https://play.google.com/store/apps/details?id=co.techpositive.photosplit)
@@ -142,13 +141,13 @@
 - [Posters](https://play.google.com/store/apps/details?id=com.kvadgroup.posters)
 - [Desygner](https://play.google.com/store/apps/details?id=com.delgeo.desygner)
 
-14. Verifique se sua conta é para uso PESSOAL ou PROFISSIONAL. Caso seja um perfil de trabalho é interessante que seja uma conta tipo Business leia sobre os recursos da versão [Instagram Business](https://business.instagram.com/?locale=pt_BR).
+**Dica #14** Verifique se sua conta é para uso PESSOAL ou PROFISSIONAL. Caso seja um perfil de trabalho é interessante que seja uma conta tipo Business leia sobre os recursos da versão [Instagram Business](https://business.instagram.com/?locale=pt_BR).
 
-15. Incentive seus seguidores a curtir, compartilhar, comentar e marcar seu @usuário nas postagens delas. Quanto mais divulgação melhor.
+**Dica #15** Incentive seus seguidores a curtir, compartilhar, comentar e marcar seu @usuário nas postagens delas. Quanto mais divulgação melhor.
 
-16. Tenha sites e outras redes sociais com links apontando para o seu perfil no Instagram.
+**Dica #16** Tenha sites e outras redes sociais com links apontando para o seu perfil no Instagram.
 
-17. É válido o uso de aplicativos para facilitar o gerenciamento da rede social a maioria são pagos porém, facilitam muito o gerenciamento e manutenção do Instagram. Algumas plataformas permitem a integração de várias redes sociais, gráficos com a análise de público alvo entre outros recursos. Alguns deles são:
+**Dica #17** É válido o uso de aplicativos para facilitar o gerenciamento da rede social a maioria são pagos porém, facilitam muito o gerenciamento e manutenção do Instagram. Algumas plataformas permitem a integração de várias redes sociais, gráficos com a análise de público alvo entre outros recursos. Alguns deles são:
 
 	- [Planable](https://planable.io/)
 	- [SocialPilot](https://www.socialpilot.co/)
@@ -192,6 +191,7 @@
 - [Threads do Instagram](https://play.google.com/store/apps/details?id=com.instagram.threadsapp)
 - [Layout para Instagram](https://play.google.com/store/apps/details?id=com.instagram.layout)
  
+
  Postagem feita por **Mayanna Oliveira**
  
  Siga-me nas redes sociais acesse o meu [Bio Link](https://mayanna.bio.link/)
