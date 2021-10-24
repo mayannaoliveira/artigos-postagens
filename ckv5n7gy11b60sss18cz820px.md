@@ -1,6 +1,9 @@
 ## Instagram Turbinado
 
-## Técnicas legais para crescer no Instagram:
+
+![Postagem do Instagram 1080x1080  px-.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1635104981166/0lNx0M7F6.png)
+
+## 17 dicas  para crescer no Instagram:
 
 1. Gerenciador de links na biografia. Beacons / Linktree/ Boi Link/ Tap Link entre outras. Exemplo:
 	- [Beacons](https://beacons.ai/mayannaoliveira)
@@ -159,7 +162,7 @@
 ## Não é permitido o uso de técnicas Gray Hat, Black Hat ou quebra das regras de uso e privacidade como:
 - Uso de bots para ter mais visualizações, curtidas ou seguidores.
 - Pagar para ter visualizações, curtidas ou seguidores.
-- Utilizar bots para envio de mensagens automáticas como resposta de um comentário.
+- Utilizar bots para envio de mensagens automáticas como resposta de um comentários ou aumento de curtidas.
 - Inflingir qualquer um dos termos de uso e privacidade da plataforma.
 - Leia os [Termos de Uso e Políticas de Privacidade do Instagram](https://pt-br.facebook.com/help/instagram/478745558852511).
 - Evite o uso de ferramentas que você não conheça ou que tenha pouca informação sobre ela online pois, muita delas são usadas para hackear contas.
