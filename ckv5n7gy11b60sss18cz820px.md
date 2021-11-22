@@ -6,25 +6,25 @@
 ## Mais de 17 dicas de como crescer no Instagram:
 
 **Dica #1** Gerenciador de links na biografia. Beacons / Linktree/ Boi Link/ Tap Link entre outras. Exemplo:
-	- [Beacons](https://beacons.ai/mayannaoliveira)
-	- [Linktree](https://linktr.ee/mayannaoliveira)
-	- [Bio Link](https://mayanna.bio.link/)
-	- [Tap Bio](https://tap.bio/@mayanna)
-	- [Contact in Bio](https://www.contactinbio.com/)
-	- [Lnk Bio](https://lnk.bio/pt/)
-	- [Instabio](https://instabio.cc/)
-	- [Link Me](https://linkme.bio/)
-	- [Campsite](https://campsite.bio/)
-	- [Hey Link](https://heylink.me/)
+- [Beacons](https://beacons.ai/mayannaoliveira)
+- [Linktree](https://linktr.ee/mayannaoliveira)
+- [Bio Link](https://mayanna.bio.link/)
+- [Tap Bio](https://tap.bio/@mayanna)
+- [Contact in Bio](https://www.contactinbio.com/)
+- [Lnk Bio](https://lnk.bio/pt/)
+- [Instabio](https://instabio.cc/)
+- [Link Me](https://linkme.bio/)
+- [Campsite](https://campsite.bio/)
+- [Hey Link](https://heylink.me/)
 	
 **Dica #2** Acompanhar semanalmente os [Insigths do Instagram](https://help.instagram.com/1533933820244654) e os gráficos de engajamento.
 
 **Dica #3** Usar o máximo de recursos do Instagram para postagens, como divulgação com posts, IGTV, Reels, Stories, Filtros personalizados entre outros.
 
 **Dica #4** Usar ferramentas para programar postagens (instagram free post scheduler) como os aplicativos:
-	- [Later](https://later.com/) 
-	- [Mlabs](https://www.mlabs.com.br/) 
-	- [Hootsuite](https://www.hootsuite.com/pt/)
+- [Later](https://later.com/) 
+- [Mlabs](https://www.mlabs.com.br/) 
+- [Hootsuite](https://www.hootsuite.com/pt/)
 
 **Dica #5** Ferramentas para arte gráfica e edição de vídeos:
 
@@ -148,15 +148,14 @@ e. clique em Salvar.
 **Dica #16** Tenha sites e outras redes sociais com links apontando para o seu perfil no Instagram.
 
 **Dica #17** É válido o uso de aplicativos para facilitar o gerenciamento da rede social a maioria são pagos porém, facilitam muito o gerenciamento e manutenção do Instagram. Algumas plataformas permitem a integração de várias redes sociais, gráficos com a análise de público alvo entre outros recursos. Alguns deles são:
-
-	- [Planable](https://planable.io/)
-	- [SocialPilot](https://www.socialpilot.co/)
-	- [Mlabs](https://www.mlabs.com.br/)
-	- [Hootsuite](https://www.hootsuite.com/pt/)
-	- [Buffer](https://buffer.com/)
-	- [Socialbakers](https://www.socialbakers.com/)
-	- [Sendible](https://www.sendible.com/)
-	- [Agorapulse](https://www.agorapulse.com/)
+- [Planable](https://planable.io/)
+- [SocialPilot](https://www.socialpilot.co/)
+- [Mlabs](https://www.mlabs.com.br/)
+- [Hootsuite](https://www.hootsuite.com/pt/)
+- [Buffer](https://buffer.com/)
+- [Socialbakers](https://www.socialbakers.com/)
+- [Sendible](https://www.sendible.com/)
+- [Agorapulse](https://www.agorapulse.com/)
 
 ## Não é permitido o uso de técnicas Gray Hat, Black Hat ou quebra das regras de uso e privacidade como:
 - Uso de bots para ter mais visualizações, curtidas ou seguidores.
